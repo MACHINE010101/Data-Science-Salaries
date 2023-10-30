@@ -24,4 +24,3 @@ The decision tree has a feature importance, use the sk learn documentation to un
 Use a random forest regressor and follow the same steps.
 
 No bias-variance trade-off
-
