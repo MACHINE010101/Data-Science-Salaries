@@ -1,6 +1,5 @@
 # Data Science Salaries
-
-
+### Author: Eduard Pascale
 
 ## DA Practice 1: Data Science Salaries
 
